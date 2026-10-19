@@ -48,5 +48,5 @@ Cole o script desejado no editor de Apps Script da planilha correspondente.
 
 ## Autor
 
-José Vitor Santos Pinheiro — Análise de Dados e Inteligência Comercial (Varejo e Supply Chain).
+José Vitor Santos Pinheiro — Análise de Dados e Inteligência Comercial (Varejo, Indústria e Distribuição).
 Contato: vytorsantt@gmail.com
